@@ -1,0 +1,22 @@
+{
+  "wheel_id": 621,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-103",
+  "project": "waterproofing-adelaide-seasonal-timing-375b37fe909bed119d9d6bbe",
+  "parent_t1_ref": "prowaterproofingadelaide-151",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing adelaide seasonal timing",
+  "intended_url": "https://aumedia.neocities.org/waterproofing-adelaide-seasonal-timing-375b37fe909bed119d9d6bbe/",
+  "tier": "T2",
+  "writeback_nonce": "ae3221f2fae5d28f",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/prowaterproofingadelaide-151/",
+      "anchor": "Waterproofing Adelaide: A Practical Project Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
